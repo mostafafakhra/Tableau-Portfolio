@@ -9,7 +9,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 
 ###  [Project 1: Customer Personality Analysis Dashboard](https://github.com/mostafafakhra/Tableau-Portfolio-/blob/main/Project%201%20-%20Customer%20Personality%20Analysis%20Dashboard/Customer%20Personality%20Analysis%20Dashboard.png)
 ![image](https://github.com/mostafafakhra/Tableau-Portfolio-/blob/main/Project%201%20-%20Customer%20Personality%20Analysis%20Dashboard/Customer%20Personality%20Analysis%20Dashboard.png)
-* Used movies data from Kaggle
+* Used marketing campaign data from Kaggle
 * **Keywords** (Marketing, E-Commerces, Tableau)
 
 ---
